@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web development and data science
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... Web Development especially using python and django framework
-- 📫 How to reach me ... You can reach me through whatsapp +254746473375, twitter: @phelix_ongoro
+- 📫 How to reach me ... You can reach me through whatsapp +254746473375, twitter: @phelix_ongoro, linkedin: https://www.linkedin.com/in/felix-ongoro-ab6b38192
 
 <!---
 Phelix44/Phelix44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
